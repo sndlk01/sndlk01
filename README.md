@@ -1,17 +1,4 @@
-- 👋 Hi, I’m @sndlk01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-sndlk01/sndlk01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<h1 align="center">Hi there, I'm Your Name! 👋</h1>
+<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
@@ -21,20 +8,59 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## 🚀 About Me  
-🔹 **Name**: Your Name  
-🔹 **Role**: Your Current Job Title (or "Aspiring Developer")  
-🔹 **Tech Stack**:  
-&nbsp;&nbsp;&nbsp;&nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-&nbsp;&nbsp;&nbsp;&nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-&nbsp;&nbsp;&nbsp;&nbsp; ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-&nbsp;&nbsp;&nbsp;&nbsp; ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-
-🔹 **Hobbies & Interests**:  
-🎮 Gaming | 📚 Reading | 🎵 Music | 💡 Open Source  
+💡 Passionate about **Full-Stack Development, UI/UX Design, and Cloud Deployment**  
+🎯 Always learning and exploring new technologies  
 
 ---
 
-## 📈 GitHub Stats  
+## 🛠️ Technical Skills  
+
+### 🔹 Frontend Development  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)  
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![AdobeXD](https://img.shields.io/badge/AdobeXD-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)  
+
+### 🔹 Backend Development  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
+![Hapi.js](https://img.shields.io/badge/Hapi.js-FF4088?style=for-the-badge&logo=hapi.js&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+
+### 🔹 Development Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)  
+
+### 🔹 Project Management  
+✔️ Agile/Scrum methodologies  
+✔️ Sprint Planning  
+✔️ Trello / ClickUp  
+
+### 🔹 Testing & Deployment  
+✔️ Playwright  
+✔️ RobotFramework  
+✔️ Netlify / Vercel / Heroku  
+
+### 🔹 Networking  
+✔️ Cisco Router/Switch Configuration  
+✔️ Routing Protocols (OSPF)  
+
+---
+
+## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="GitHub Streak Stats" />
