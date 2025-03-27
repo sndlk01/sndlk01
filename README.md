@@ -1,8 +1,5 @@
-<h4 align="center">Hi there, I'm Jan @sndlk01 👋</h4>
----
-
-## 🚀 About Me  
-💡 Passionate about **Full-Stack Development and UI/UX Design**  
+## 🚀 Hi there, I'm Jan @sndlk01 
+💡 Passionate about **Junior Full-Stack Development and UI/UX Design**  
 
 ---
 
