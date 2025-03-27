@@ -1,15 +1,8 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Followers" />
-</p>
-
+<h4 align="center">Hi there, I'm Jan @sndlk01 👋</h4>
 ---
 
 ## 🚀 About Me  
-💡 Passionate about **Full-Stack Development, UI/UX Design, and Cloud Deployment**  
-🎯 Always learning and exploring new technologies  
+💡 Passionate about **Full-Stack Development and UI/UX Design**  
 
 ---
 
@@ -50,21 +43,6 @@
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
 </p>
 
-
-### 🔹 Project Management  
-✔️ Agile/Scrum methodologies  
-✔️ Sprint Planning  
-✔️ Trello / ClickUp  
-
-### 🔹 Testing & Deployment  
-✔️ Playwright  
-✔️ RobotFramework  
-✔️ Netlify / Vercel / Heroku  
-
-### 🔹 Networking  
-✔️ Cisco Router/Switch Configuration  
-✔️ Routing Protocols (OSPF)  
-
 ---
 
 ## 📊 GitHub Stats  
@@ -73,14 +51,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="GitHub Streak Stats" />
 </p>
 
----
-
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/yourusername)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)  
-
----
-
-⭐ **Fun Fact**: I love coding while sipping ☕ coffee!  
