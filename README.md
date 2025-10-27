@@ -6,22 +6,22 @@ Hi! I'm **Jan**, a 23-year-old **Software Engineer**
 
 ## 🧠 Tech Stack
 
-### 💻 Frontend
-<img src="https://skillicons.dev/icons?i=js,ts,angular,vue,nuxtjs,nextjs,html,css,bootstrap,tailwind,figma,xd&perline=8" />
+### Frontend
+<img src="https://skillicons.dev/icons?i=js,ts,angular,vue,react,nuxtjs,nextjs,html,css,bootstrap,tailwind,figma,xd&perline=8" />
 
-### ⚙️ Backend
+### Backend
 <img src="https://skillicons.dev/icons?i=express,laravel,php,python,fastapi,flask&perline=8" />
 
 > 💡 *Also experienced with*: **Odoo**, **Hapi**, and **Kafka**
 
-### 🗄️ Database
+### Database
 <img src="https://skillicons.dev/icons?i=mysql,postgresql&perline=8" />
 
 ### 🐳 DevOps / CI/CD
 <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab&perline=8" />
 
 ### 🧪 Testing & Automation
-<img src="https://skillicons.dev/icons?i=playwright,robotframework,cypress,postman&perline=8" />
+<img src="https://skillicons.dev/icons?i=cypress,postman&perline=8" />
 
 ---
 
